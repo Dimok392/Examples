@@ -1,0 +1,15 @@
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\bin\Debug\net6.0\Examples001HelloWorld.exe
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\bin\Debug\net6.0\Examples001HelloWorld.deps.json
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\bin\Debug\net6.0\Examples001HelloWorld.runtimeconfig.json
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\bin\Debug\net6.0\Examples001HelloWorld.dll
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\bin\Debug\net6.0\Examples001HelloWorld.pdb
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\Examples001HelloWorld.csproj.AssemblyReference.cache
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\Examples001HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\Examples001HelloWorld.AssemblyInfoInputs.cache
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\Examples001HelloWorld.AssemblyInfo.cs
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\Examples001HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\Examples001HelloWorld.dll
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\refint\Examples001HelloWorld.dll
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\Examples001HelloWorld.pdb
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\Examples001HelloWorld.genruntimeconfig.cache
+C:\Users\immor\OneDrive\Desktop\Урок 1 Знакомство с языком программирования C#\Examples\Examples001HelloWorld\obj\Debug\net6.0\ref\Examples001HelloWorld.dll
